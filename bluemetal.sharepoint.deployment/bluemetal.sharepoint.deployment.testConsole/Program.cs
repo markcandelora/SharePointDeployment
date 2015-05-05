@@ -12,7 +12,7 @@ namespace bluemetal.sharepoint.deployment {
         static void Main(string[] args) {
             string siteUrl = "https://jornata.sharepoint.com";
             string userName = "markc@bluemetal.com";
-            string password = "b@rr1cade1";
+            string password = "xxxxxxx";
             Web xyz = new Web() {
                 title = "xyz1",
                 urlSegment = "xyz1",
